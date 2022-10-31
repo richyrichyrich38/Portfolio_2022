@@ -139,7 +139,7 @@ footer {
 
 /* ___________________________________________________________________ */
 
-@media screen and (max-width: 1513px) {
+@media screen and (max-width: 1200px) {
     .image {
         visibility: hidden;
     }
