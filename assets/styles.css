@@ -132,6 +132,17 @@ button:hover {
     border: none;
 }
 
+/* ______________________________________________________________________ */
+
+.banner2 {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(../assets/images/pexels-abdullah-ghatasheh-1631677.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
 footer {
     color: #fff;
     z-index: 1;
