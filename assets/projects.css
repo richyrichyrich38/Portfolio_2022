@@ -80,7 +80,7 @@ img {
 .content {
     width: 90%;
     position: absolute;
-    top: 33%;
+    top: 25%;
     transform: translateY(-50%);
     transform: translateX(7.5%);
     color: #fff;
